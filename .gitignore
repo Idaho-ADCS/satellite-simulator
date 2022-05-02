@@ -1,0 +1,5 @@
+tes-simulator/
+tes-simulator/*
+.pio/
+.pio/*
+html_src/
